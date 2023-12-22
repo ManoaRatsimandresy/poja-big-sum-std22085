@@ -34,4 +34,3 @@ jobs:
 
       - run: ./gradlew test
 
-      - run: chmod +x ./gradlew
